@@ -9,6 +9,10 @@
     z-index: -1;
 }
 
-card {
-    
+/* Autofill styles for email input */
+input#loginEmailId:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #A2D6FE inset !important;
+  box-shadow: 0 0 0px 1000px #A2D6FE inset !important;
+  -webkit-text-fill-color: #000 !important;
+  caret-color: auto !important;
 }

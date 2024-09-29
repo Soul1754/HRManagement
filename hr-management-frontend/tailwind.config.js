@@ -12,7 +12,7 @@ module.exports = {
           2: "#EEECEC",
           3: "#3D8ADB",
           4: "#303D4F",
-          5: "#3DB1FF",
+          5: "#A2D6FE",
         },
       },
     },
